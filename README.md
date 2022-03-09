@@ -3,16 +3,16 @@
 > This is a curated list of resources: utilities, examples, libraries and so on,
 for Darwinia ecosystem. It is for novice, user, and developer.
 
-[Darwinia network](https://darwinia.network/) is a decentralized cross-chain bridge network building on
-Substrate, with [Darwinia Crab network](https://crab.network/)(Crab shortly) as its [canary](https://en.wiktionary.org/wiki/canary_in_a_coal_mine) network.
+[Darwinia Network](https://darwinia.network/) is a decentralized cross-chain bridge network building on
+Substrate, [Crab Network](https://crab.network/)(Crab) is a canary network with real economic value for Darwinia Network, and its positioning is similar to Polkadot's Kusama Network.
 
 
  ## Getting Started
 
  New to blockchain & cryptocurrency? Get a quick start from:
 
-  - [[Watch]](https://www.youtube.com/watch?v=93E_GzvpMA0) What is blockchain
-  - [[Watch]](https://www.youtube.com/watch?v=bBC-nXj3Ng4) But how does Bitcoin actually work?
+  - [What is blockchain](https://www.youtube.com/watch?v=93E_GzvpMA0) 
+  - [How does Bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 
 For people who are new and want to get involved seriously:
 
@@ -40,27 +40,45 @@ Join the Darwinia development:
 
   - https://docs.darwinia.network/developers/dev-home
 
+Get involved now:
+  - Developer Documentation: https://docs.crab.network/builders/get-started/darwinia-dev
+  - Developer Telegram Group: https://t.me/DarwiniaDev
+  - Darwinia DApps Builders Group: https://t.me/+fJiD_IwvwjhjYmQ9
+  - Official Telegram: https://t.me/DarwiniaNetwork
+  - Official Medium: https://darwinianetwork.medium.com/
+
 ## Infrastructure
 
 Darwinia has 3rd party infrastructure provider for better user and developer
 experience. As of now, we have:
 
+### RPC Service
   - [OnFinality](https://onfinality.io/)
   - [Dwellir](https://www.dwellir.com/)
+  
+### Explorer
+    
+Darwinia:
+  - [Subscan Explorer](https://darwinia.subscan.io/)
 
-For Crab.
+Crab: 
+  - [Subscan Explorer](https://crab.subscan.io/)
+  - [Subview Explorer](https://subview.xyz/)
+  
+### Wallet
+  - [Polkadot.js](https://polkadot.js.org/)
+  - [Darwinia Apps](https://apps.darwinia.network/)
+  - [MetaMask](https://metamask.io/)
+  - [Math Wallet](https://mathwallet.org/en-us/)
 
-## Utility, Game, Application
+
+## DApps
 
   - Game: [Evolution Land](https://www.evolution.land/)
-  - Wallet: [Darwinia Apps](https://apps.darwinia.network/#/account?rpc%3Dwss%3A%2F%2Frpc.darwinia.network)
-  - Darwinia <> Ethereum: [Wormhole](https://wormhole.darwinia.network/)
-  - Darwinia network <> Darwinia Crab Network: [Smart App](https://smart.darwinia.network/)
-  - DEX: [SubSwap](https://subswap.pro/#/swap)
-  - NFT market: [MetaRock](https://metarock.app/)
-  - Dapp library: [darwinia.js](https://github.com/darwinia-network/darwinia.js)
-  - Chain explorer:
+  - Bridge: [Wormhole](https://wormhole.darwinia.network/)
+  - Bridge: [Smart App](https://smart.darwinia.network/)
+  - DeFi: [SubSwap](https://subswap.pro/#/swap)
+  - DeFi:[Snowswap](https://snowswap.xyz/#/)
+  - NFT Market: [MetaRock](https://metarock.app/)
 
-    - [Darwinia Netowrk](https://darwinia.subscan.io/)
-    - [Darwinia Crab Network](https://crab.subscan.io/)
-    - [Crab Smart Chain](https://crab.subview.xyz/)
+  Dapp Library: [darwinia.js](https://github.com/darwinia-network/darwinia.js)
