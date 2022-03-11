@@ -2,7 +2,9 @@
 
 ## **Project description**
 
-A platform where user can deploy their metaverse from various pre-built editable templates in single click powered by web3.Crab provides a perfect platform by enabling smartcontracts with fast transaction speed and low transaction fees. By utilizing the power of Cross-chain Interoperability a truly decentralize interoperable nft metaverse can be created. We are already in advance stages of developement and already have our smart contract on Crab's Pangolin testnet. alt text Provided Features
+![alt text](https://i.ibb.co/zX2d0Qn/Screenshot-2022-03-01-18-18-08.png)
+
+A platform where user can deploy their metaverse from various pre-built editable templates in single click powered by web3.Crab provides a perfect platform by enabling smartcontracts with fast transaction speed and low transaction fees. By utilizing the power of Cross-chain Interoperability a truly decentralize interoperable nft metaverse can be created. We are already in advance stages of developement and already have our smart contract on Crab's Pangolin testnet.
 
 ## **Name of the track**
 
