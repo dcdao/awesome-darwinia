@@ -14,7 +14,9 @@ Outstanding Prize: $10,000 USDT
 ## **Resource**
 
 Github Repo : https://github.com/harshu4/Eclectica-Crab
+
 Website Deployer:  https://crab-metaec.b-cdn.net
+
 Test Metaverse : https://bafybeibzvmelwjnsmnvobelxhnkm6zs3uqfs3vmk6kce72jwwghhtnr3ry.ipfs.infura-ipfs.io/
 
 ## **Prize**
