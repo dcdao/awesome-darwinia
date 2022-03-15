@@ -1,4 +1,4 @@
-# MetaCrab
+# MetaCrab (Crab Online Hackathon)
 ## **Project description**
 MetaCrab is a virtual 3D world on the Crab Network.
 By connecting their wallet, users will be able to immerse themselves in a completely new, interesting, interactive world where everything is someone's property in the form of NFTs (land, houses, decorations, banner ads, etc.)
