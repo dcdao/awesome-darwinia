@@ -1,4 +1,4 @@
-# Decentralized News Portal on Crab Network
+# Decentralized News Portal on Crab Network (Crab Online Hackathon)
 
 ## **Project description**
 Decentralized News Portal, that running on Crab Network, where everyone who has some news can share it by connecting their wallet to the portal and confirm the transaction.
