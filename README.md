@@ -1,87 +1,70 @@
 # Awesome Darwinia
 
 > This is a curated list of resources: utilities, examples, libraries and so on,
-for Darwinia ecosystem. It is for novice, user, and developer.
+> for Darwinia ecosystem. It is for novice, user, and developer.
 
 [Darwinia Network](https://darwinia.network/) is a decentralized cross-chain bridge network building on
 Substrate, [Crab Network](https://crab.network/)(Crab) is a canary network with real economic value for Darwinia Network, and its positioning is similar to Polkadot's Kusama Network.
 
-
- ## Getting Started
-
- New to blockchain & cryptocurrency? Get a quick start from:
-
-  - [What is blockchain](https://www.youtube.com/watch?v=93E_GzvpMA0) 
-  - [How does Bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
-
-For people who are new and want to get involved seriously:
-
-  - [Mastering Bitcoin](https://www.oreilly.com/library/view/mastering-bitcoin/9781491902639/)
-  - [Bitcoin and Cryptocurrency Technologies](https://bitcoinbook.cs.princeton.edu/)
+## Getting Started
 
 New to Darwinia network?
 
-   - https://docs.darwinia.network/
-   - https://docs.crab.network/
+- https://docs.darwinia.network/
 
-Start to play with Darwinia:
+What is Darwinia:
 
-  - https://docs.darwinia.network/tutorials/quick-start-account
-
-Go deeper within Darwinia:
-
-  - https://docs.darwinia.network/understand-darwinia/wiki-us-architecture
+- https://docs.darwinia.network/what-is-darwinia-cef70c071e6145868dc8169690e71908
 
 Darwinia innovation:
 
-  - https://docs.darwinia.network/bridge-knowledge-base/bridge-overview
+- [LCMP](https://docs.darwinia.network/lcmp-overview-3e4aaa724b6b42a2b821fe607ff4568f)
 
 Join the Darwinia development:
 
-  - https://docs.darwinia.network/developers/dev-home
+- https://docs.darwinia.network/builder-4003de8942774fffb25726e32be3b27e
 
 Get involved now:
-  - Developer Documentation: https://docs.crab.network/builders/get-started/darwinia-dev
-  - Developer Telegram Group: https://t.me/DarwiniaDev
-  - Darwinia DApps Builders Group: https://t.me/+fJiD_IwvwjhjYmQ9
-  - Official Telegram: https://t.me/DarwiniaNetwork
-  - Official Medium: https://darwinianetwork.medium.com/
+
+- Developer Telegram Group: https://t.me/DarwiniaDev
+- Discord: https://discord.gg/aN4wdNrY
+- Official Telegram: https://t.me/DarwiniaNetwork
+- Official Medium: https://darwinianetwork.medium.com/
 
 ## Infrastructure
 
 Darwinia has 3rd party infrastructure provider for better user and developer
 experience. As of now, we have:
 
-### RPC Service
-  - [OnFinality](https://onfinality.io/)
-  - [Dwellir](https://www.dwellir.com/)
-
 ### Explorer
 
 Darwinia:
-  - [Subscan Explorer](https://darwinia.subscan.io/)
 
-Crab: 
-  - [Subscan Explorer](https://crab.subscan.io/)
-  - [Subview Explorer](https://subview.xyz/)
+- [Subscan Explorer](https://darwinia.subscan.io/)
+
+Crab:
+
+- [Subscan Explorer](https://crab.subscan.io/)
+- [Subview Explorer](https://subview.xyz/)
 
 ### Wallet
-  - [Polkadot.js](https://polkadot.js.org/)
-  - [Darwinia Apps](https://apps.darwinia.network/)
-  - [MetaMask](https://metamask.io/)
-  - [Math Wallet](https://mathwallet.org/en-us/)
+
+- [Polkadot.js](https://polkadot.js.org/)
+- [Darwinia Apps](https://apps.darwinia.network/)
+- [MetaMask](https://metamask.io/)
+- [Math Wallet](https://mathwallet.org/en-us/)
 
 ## DApps
 
-  - Game: [Evolution Land](https://www.evolution.land/)
-  - Bridge: [Wormhole](https://wormhole.darwinia.network/)
-  - Bridge: [Smart App](https://smart.darwinia.network/)
-  - DeFi: [SubSwap](https://subswap.pro/#/swap)
-  - DeFi:[Snowswap](https://snowswap.xyz/#/)
-  - NFT Market: [MetaRock](https://metarock.app/)
+- https://apps.darwinia.network/
 
-  Dapp Library: [darwinia.js](https://github.com/darwinia-network/darwinia.js)
+### Dapp Library
+
+- [darwinia-messages-sol](https://github.com/darwinia-network/darwinia-messages-sol)
+- [darwinia-messages-substrate](https://github.com/darwinia-network/darwinia-messages-substrate)
+- [darwinia-js-sdk](https://github.com/darwinia-network/darwinia-js-sdk)
+- [darwinia.js](https://github.com/darwinia-network/darwinia.js)
 
 ## Darwinia VIS
 
-  - [DARWINIA VIS 2022.pdf](./DARWINIA%20VIS%202022.pdf)
+- [DARWINIA VIS 2022.pdf](./DARWINIA%20VIS%202022.pdf)
