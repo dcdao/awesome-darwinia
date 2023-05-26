@@ -12,24 +12,23 @@ New to Darwinia network?
 
 - https://docs.darwinia.network/
 
-What is Darwinia:
+Darwinia Notion Site:
 
-- https://docs.darwinia.network/what-is-darwinia-cef70c071e6145868dc8169690e71908
+- https://darwinia.notion.site/a76d5bdc7ad242bea991c023dfca208f?v=5fb127fc9a7a4d67a3bbc3ed50445180
 
-Darwinia innovation:
+LCMP Introduction:
 
-- [LCMP](https://docs.darwinia.network/lcmp-overview-3e4aaa724b6b42a2b821fe607ff4568f)
+- https://medium.com/darwinianetwork/understanding-darwinia-1-9-darwinia-lcmp-a-light-client-based-cross-chain-messaging-protocol-10f8740ac2ba
 
-Join the Darwinia development:
+Github:
 
-- https://docs.darwinia.network/builder-4003de8942774fffb25726e32be3b27e
+- https://github.com/darwinia-network
 
 Get involved now:
 
-- Developer Telegram Group: https://t.me/DarwiniaDev
-- Discord: https://discord.gg/aN4wdNrY
-- Official Telegram: https://t.me/DarwiniaNetwork
+- Discord: https://discord.com/invite/aQdK9H4MZS
 - Official Medium: https://darwinianetwork.medium.com/
+- Twitter: https://twitter.com/DarwiniaNetwork
 
 ## Infrastructure
 
