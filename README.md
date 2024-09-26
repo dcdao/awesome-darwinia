@@ -1,69 +1,54 @@
-# Awesome Darwinia
+# Awesome Darwinia [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> This is a curated list of resources: utilities, examples, libraries and so on,
-> for Darwinia ecosystem. It is for novice, user, and developer.
+A curated collection of resources and tools to help you get started with Darwinia. We welcome contributions to keep this documentation always up to date.
 
-[Darwinia Network](https://darwinia.network/) is a decentralized cross-chain bridge network building on
-Substrate, [Crab Network](https://crab.network/)(Crab) is a canary network with real economic value for Darwinia Network, and its positioning is similar to Polkadot's Kusama Network.
+## Resources
 
-## Getting Started
+- [Get started with Darwinia](https://docs.darwinia.network/) - The official guide.
+- [What is Crab Chain?](https://x.com/DarwiniaNetwork/status/1839143693107998827) - What is a Crab chain, and when should it be used?
+- [What is RingDAO?](https://ringdao.com/) - RingDAO official website.
+- [What is DCDAO?](https://docs.darwinia.network/community/orgs/dcdao/) - DCDAO explaination.
+- [What is KtonDAO?](https://docs.darwinia.network/community/orgs/ktondao/) - KtonDAO explaination.
+- [Darwinia Developer Series](https://youtube.com/playlist?list=PLCUzjdw17bJD8KS4QTS0aMZgEVpGP8vlH&si=SKa8cCUx7Vtl3lYx) - Series of videos for building on Darwinia.
+- [Official Github](https://github.com/darwinia-network) - Darwinia main Github repos.
+- [DIP(Darwinia Improvement Proposal)](https://dips.darwinia.network/) - Submit the changes proposal you want to make to Darwinia.
+- [RFP(Request for Proposals)](https://github.com/darwinia-network/collaboration/issues) - Checkout the RFPs to see if you can help.
+- [Official Grant Program](https://github.com/darwinia-network/collaboration/blob/master/grant/README.md) - Apply for grants.
+- [Band Assets](https://darwinia.notion.site/Brand-Assets-9bd35f88f0674232954737577616f2c2) - Everything about brand assets.
+- [Darwinia Papers](https://darwinia.network/#/papers) - Papers that demonstrate the solution offered by Darwinia.
 
-New to Darwinia network?
+## Ecosystem Dapps
 
-- https://docs.darwinia.network/
+### Governance
 
-Darwinia Notion Site:
+- [DCDAO Governance](https://www.tally.xyz/gov/dcdao)
+- [KtonDAO Governance](https://www.tally.xyz/gov/ktondao)
+- [Darwinia Chain Onchain Governance](https://darwinia2.subsquare.io/)
 
-- https://darwinia.notion.site/a76d5bdc7ad242bea991c023dfca208f?v=5fb127fc9a7a4d67a3bbc3ed50445180
+### Staking
 
-LCMP Introduction:
+- [KtonDAO Stake](https://staking.ktondao.xyz/)
+- [Darwinia Chains Collator Stake](https://collator-staking.darwinia.network/)
 
-- https://medium.com/darwinianetwork/understanding-darwinia-1-9-darwinia-lcmp-a-light-client-based-cross-chain-messaging-protocol-10f8740ac2ba
+### Tokens
 
-Github:
+- [Darwinia Bridge](https://bridge.darwinia.network/) - A central place to exchange Darwinia tokens within the Polkadot and Ethereum ecosystem.
+- [ParaLink](https://para.link/) - Allow the users to exchange Darwinia tokens within the Polkadot ecosystem.
+- [Snowswap](https://snowswap.xyz/#/) - A decentralised swap for tokens.
+- [Helix Bridge](https://helixbridge.app/) - Allow the users to exchange Darwinia tokens within the Ethereum ecosystem.
+- [Darwinia 2.0 Account Migration](https://migration.darwinia.network/) - Allow the previous Darwinia 1.0 users to migrate to Darwinia 2.0.
 
-- https://github.com/darwinia-network
+### Wallets
 
-Get involved now:
+- [MetaMask](https://docs.darwinia.network/build/getting-started/wallets/#metamask)
+- [Talisman](https://docs.darwinia.network/build/getting-started/wallets/#talisman)
 
-- Discord: https://discord.com/invite/aQdK9H4MZS
-- Official Medium: https://darwinianetwork.medium.com/
-- Twitter: https://twitter.com/DarwiniaNetwork
+## Social
 
-## Infrastructure
+- [DCDAO X(Twitter)](https://x.com/Official_DCDAO)
+- [Darwinia X(Twitter)](https://twitter.com/DarwiniaNetwork)
+- [Darwinia Discord](https://discord.gg/jbRk7znn4Q)
+- [Darwinia Telegram](https://t.me/DarwiniaNetwork)
+- [Darwinia Medium](https://medium.com/darwinianetwork)
 
-Darwinia has 3rd party infrastructure provider for better user and developer
-experience. As of now, we have:
 
-### Explorer
-
-Darwinia:
-
-- [Subscan Explorer](https://darwinia.subscan.io/)
-
-Crab:
-
-- [Subscan Explorer](https://crab.subscan.io/)
-- [Subview Explorer](https://subview.xyz/)
-
-### Wallet
-
-- [Polkadot.js](https://polkadot.js.org/)
-- [Darwinia Apps](https://apps.darwinia.network/)
-- [MetaMask](https://metamask.io/)
-- [Math Wallet](https://mathwallet.org/en-us/)
-
-## DApps
-
-- https://apps.darwinia.network/
-
-### Dapp Library
-
-- [darwinia-messages-sol](https://github.com/darwinia-network/darwinia-messages-sol)
-- [darwinia-messages-substrate](https://github.com/darwinia-network/darwinia-messages-substrate)
-- [darwinia-js-sdk](https://github.com/darwinia-network/darwinia-js-sdk)
-- [darwinia.js](https://github.com/darwinia-network/darwinia.js)
-
-## Darwinia VIS
-
-- [DARWINIA VIS 2022.pdf](./DARWINIA%20VIS%202022.pdf)
